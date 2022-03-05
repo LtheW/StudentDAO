@@ -1,0 +1,8 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 数据源本地存储已忽略文件
+/../../../../../../../../../:\资料\计算机作业\大三下学期\软件消息中间件\第二章 UDA and ORM\第二章 UDA and ORM\StudentDAO\.idea/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
